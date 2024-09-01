@@ -151,12 +151,3 @@ Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Contact
-
-Ben Motyka - [LinkedIn](https://www.linkedin.com/in/ben-motyka-97a729240/) - benmotykax@gmail.com
-
-Project Link: [https://github.com/benmotyka/my-plants_app](https://github.com/benmotyka/my-plants_app)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
